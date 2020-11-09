@@ -5,6 +5,11 @@ VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrismRegisterManySingletonRepro", "PrismRegisterManySingletonRepro\PrismRegisterManySingletonRepro.csproj", "{D68FB427-DF6B-470E-B56D-B2267AB0AC0B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A1D0F9DB-7CC3-48A5-BA78-8BA77C946B10}"
+	ProjectSection(SolutionItems) = preProject
+		README.MD = README.MD
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
